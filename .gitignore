@@ -94,6 +94,3 @@ lib/generated_plugin_registrant.dart
 
 # Cloud functions related
 functions/
-
-# Hidden
-/android/app/google-services.json

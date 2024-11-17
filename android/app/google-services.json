@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986933094041",
+    "project_id": "yallanegev-38d6a",
+    "storage_bucket": "yallanegev-38d6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986933094041:android:7541ba3ea5e283730e7a08",
+        "android_client_info": {
+          "package_name": "com.technion.android.yalla_negev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986933094041-omdh4r2pcsg3sip32ibfud8c6l49mqql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technion.android.yalla_negev",
+            "certificate_hash": "7886d017e97f147a9dab9c9d8e42af6301da7e73"
+          }
+        },
+        {
+          "client_id": "986933094041-6pviki9sond8om07bvhqnt80fet8arik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpkXZTite9YGiOUq8TOPy5sYlQnZBzq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986933094041-6pviki9sond8om07bvhqnt80fet8arik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
